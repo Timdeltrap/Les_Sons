@@ -1,9 +1,3 @@
-[submodule "HISSTools_Impulse_Response_Toolbox"]
-	path = HISSTools_Impulse_Response_Toolbox
+[submodule "Source/HISSTools_Impulse_Response_Toolbox"]
+	path = Source/HISSTools_Impulse_Response_Toolbox
 	url = https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox.git
-[submodule "src/HISSTools_Impulse_Response_Toolbox"]
-	path = src/HISSTools_Impulse_Response_Toolbox
-	url = https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox.git
-[submodule "ASH-Listening-Set"]
-	path = ASH-Listening-Set
-	url = https://github.com/ShanonPearce/ASH-Listening-Set.git
