@@ -3,14 +3,14 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 5,
-			"revision" : 6,
+			"minor" : 6,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 34.0, 106.0, 902.0, 1029.0 ],
+		"rect" : [ 34.0, 80.0, 902.0, 1055.0 ],
 		"bglocked" : 0,
 		"openinpresentation" : 1,
 		"default_fontsize" : 12.0,
@@ -358,7 +358,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
 					"patching_rect" : [ 460.5, 719.0, 100.0, 100.0 ],
-					"pic" : "Macintosh HD:/Users/timdeltrap/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration/file-earmark-music.png",
+					"pic" : "Macintosh HD:/Users/timdeltrap/Documents/GitHub/Les_Sons/Source/MAX patch/file-earmark-music.png",
 					"presentation" : 1,
 					"presentation_rect" : [ 121.575348059800262, 25.0, 19.11045852555128, 19.11045852555128 ]
 				}
@@ -374,7 +374,7 @@
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
 					"patching_rect" : [ 292.0, 703.0, 100.0, 100.0 ],
-					"pic" : "Macintosh HD:/Users/timdeltrap/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration/file-earmark-image.png",
+					"pic" : "Macintosh HD:/Users/timdeltrap/Documents/GitHub/Les_Sons/Source/MAX patch/file-earmark-image.png",
 					"presentation" : 1,
 					"presentation_rect" : [ 121.575348059800262, 54.98503945903721, 19.11045852555128, 19.11045852555128 ]
 				}
@@ -768,8 +768,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
-							"revision" : 6,
+							"minor" : 6,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -862,8 +862,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
-											"revision" : 6,
+											"minor" : 6,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1130,8 +1130,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
-							"revision" : 6,
+							"minor" : 6,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1248,8 +1248,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
-											"revision" : 6,
+											"minor" : 6,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -1935,8 +1935,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
-							"revision" : 6,
+							"minor" : 6,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2029,8 +2029,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
-											"revision" : 6,
+											"minor" : 6,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -2296,8 +2296,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
-							"revision" : 6,
+							"minor" : 6,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -2414,8 +2414,8 @@
 										"fileversion" : 1,
 										"appversion" : 										{
 											"major" : 8,
-											"minor" : 5,
-											"revision" : 6,
+											"minor" : 6,
+											"revision" : 2,
 											"architecture" : "x64",
 											"modernui" : 1
 										}
@@ -3728,6 +3728,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_invisible" : 1,
 							"parameter_longname" : "number[1]",
+							"parameter_modmode" : 0,
 							"parameter_shortname" : "number[1]",
 							"parameter_type" : 3
 						}
@@ -3753,6 +3754,7 @@
 							"parameter_initial_enable" : 1,
 							"parameter_invisible" : 1,
 							"parameter_longname" : "number[2]",
+							"parameter_modmode" : 0,
 							"parameter_shortname" : "number",
 							"parameter_type" : 3
 						}
@@ -4525,6 +4527,7 @@
 							"parameter_longname" : "number",
 							"parameter_mmax" : 8.0,
 							"parameter_mmin" : 1.0,
+							"parameter_modmode" : 0,
 							"parameter_shortname" : "number",
 							"parameter_type" : 3
 						}
@@ -4565,6 +4568,7 @@
 				"box" : 				{
 					"addpoints" : [ 0.0, 0.0, 0, 2.0, 100.0, 0, 99.0, 100.0, 0, 100.0, 0.0, 0, 100.0, 0.0, 0, 100.0, 0.0, 0 ],
 					"bgcolor" : [ 0.2, 0.2, 0.2, 0.0 ],
+					"classic_curve" : 1,
 					"clickadd" : 0,
 					"clickmove" : 0,
 					"domain" : 100.0,
@@ -4672,8 +4676,8 @@
 					"id" : "obj-11",
 					"maxclass" : "newobj",
 					"numinlets" : 1,
-					"numoutlets" : 9,
-					"outlettype" : [ "float", "list", "float", "float", "float", "float", "float", "", "int" ],
+					"numoutlets" : 10,
+					"outlettype" : [ "float", "list", "float", "float", "float", "float", "float", "", "int", "" ],
 					"patching_rect" : [ 276.564870253205299, 215.648852586746216, 103.0, 22.0 ],
 					"text" : "info~ sampler"
 				}
@@ -6646,14 +6650,14 @@
 ,
 		"dependency_cache" : [ 			{
 				"name" : "Q acoustic velocity_scaled.png",
-				"bootpath" : "~/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration",
+				"bootpath" : "~/Documents/GitHub/Les_Sons/Source/MAX patch",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "SourceFiltersV3.maxpat",
-				"bootpath" : "~/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration",
+				"bootpath" : "~/Documents/GitHub/Les_Sons/Source/MAX patch",
 				"patcherrelativepath" : ".",
 				"type" : "JSON",
 				"implicit" : 1
@@ -6664,21 +6668,21 @@
 			}
 , 			{
 				"name" : "file-earmark-image.png",
-				"bootpath" : "~/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration",
+				"bootpath" : "~/Documents/GitHub/Les_Sons/Source/MAX patch",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "file-earmark-music.png",
-				"bootpath" : "~/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration",
+				"bootpath" : "~/Documents/GitHub/Les_Sons/Source/MAX patch",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
 			}
 , 			{
 				"name" : "playstop_button.png",
-				"bootpath" : "~/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration",
+				"bootpath" : "~/Documents/GitHub/Les_Sons/Source/MAX patch",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
@@ -6686,7 +6690,7 @@
 , 			{
 				"name" : "silvercrest full.psd",
 				"bootpath" : "~/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/visuals",
-				"patcherrelativepath" : "../visuals",
+				"patcherrelativepath" : "../../../../../Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/visuals",
 				"type" : "8BPS",
 				"implicit" : 1
 			}

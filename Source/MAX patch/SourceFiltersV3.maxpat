@@ -3,8 +3,8 @@
 		"fileversion" : 1,
 		"appversion" : 		{
 			"major" : 8,
-			"minor" : 5,
-			"revision" : 6,
+			"minor" : 6,
+			"revision" : 2,
 			"architecture" : "x64",
 			"modernui" : 1
 		}
@@ -482,14 +482,14 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
-							"revision" : 6,
+							"minor" : 6,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 34.0, 105.0, 1732.0, 1030.0 ],
+						"rect" : [ 34.0, 106.0, 1732.0, 1029.0 ],
 						"bglocked" : 0,
 						"openinpresentation" : 0,
 						"default_fontsize" : 12.0,
@@ -910,8 +910,8 @@
 						"fileversion" : 1,
 						"appversion" : 						{
 							"major" : 8,
-							"minor" : 5,
-							"revision" : 6,
+							"minor" : 6,
+							"revision" : 2,
 							"architecture" : "x64",
 							"modernui" : 1
 						}
@@ -1514,13 +1514,14 @@
 , 			{
 				"box" : 				{
 					"autofit" : 1,
+					"forceaspect" : 1,
 					"id" : "obj-26",
 					"maxclass" : "fpic",
 					"numinlets" : 1,
 					"numoutlets" : 1,
 					"outlettype" : [ "jit_matrix" ],
-					"patching_rect" : [ 304.942114308902092, 65.517045135940407, 163.928571428571104, 156.13370973037911 ],
-					"pic" : "Macintosh HD:/Users/timdeltrap/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration/Q acoustic velocity_scaled.png",
+					"patching_rect" : [ 304.942114308902092, 65.517045135940407, 163.928571428571104, 163.928571428571104 ],
+					"pic" : "Macintosh HD:/Users/timdeltrap/Documents/GitHub/Les_Sons/Source/MAX patch/Q acoustic velocity_scaled.png",
 					"presentation" : 1,
 					"presentation_rect" : [ 38.021611556552699, 275.07407878475135, 177.179195938302115, 171.714991879341198 ]
 				}
@@ -2025,7 +2026,7 @@
  ],
 		"dependency_cache" : [ 			{
 				"name" : "Q acoustic velocity_scaled.png",
-				"bootpath" : "~/Library/CloudStorage/OneDrive-DelftUniversityofTechnology/Graduation/Design concepts/concept 3/max patch iteration",
+				"bootpath" : "~/Documents/GitHub/Les_Sons/Source/MAX patch",
 				"patcherrelativepath" : ".",
 				"type" : "PNG",
 				"implicit" : 1
