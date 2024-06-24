@@ -2,3 +2,6 @@
 [submodule "Source/HISSTools_Impulse_Response_Toolbox"]
 	path = Source/HISSTools_Impulse_Response_Toolbox
 	url = https://github.com/HISSTools/HISSTools_Impulse_Response_Toolbox.git
+[submodule "Source/CNMAT-Externs"]
+	path = Source/CNMAT-Externs
+	url = https://github.com/CNMAT/CNMAT-Externs.git
