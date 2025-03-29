@@ -1,8 +1,15 @@
 # Les_Sons
 Welcome to the github repository for the Les_Sons product sound conceptualization tool.
 
-## Tutorial video
-To get started it is recommended to watch the Les_Sons tutorial video below. Clicking on the picture will bring you to the actual youtube video.
+## Getting started 
+1. Download the project repository from this github page.
+2. Make sure to download and install Cycling74's Max or Max runtime from https://cycling74.com/downloads
+3. Start the program by clicking on LesSonsV3.mxf in the */Les_Sons-main* folder
+4. When Les_Sons is starting a prompt will ask you to select a folder. To start with the example sounds of electric shavers select the */Les_Sons-main/features samples* folder within the Les_Sons main folder (To use your own samples new samples can be added to the features samples folder)
+5. If needed put the max patch in presentation mode
+6. You can now start using Les_Sons!
+   
+To help you getting started it is recommended to watch the Les_Sons tutorial video below. Clicking on the picture will bring you to the actual youtube video.
 
 [![Les_Sons video Tutorial](https://i9.ytimg.com/vi/Q_ZCD8cKsXk/mqdefault.jpg?sqp=CIDnn78G-oaymwEmCMACELQB8quKqQMa8AEB-AHSCIAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBuunh0m6VAftop-AtPqapsCco8mA)](https://youtu.be/Q_ZCD8cKsXk "Les_Sons Video Tutorial")
 
@@ -13,14 +20,12 @@ To get to know more about the master graduation project behind Les_Sons, please 
 
 ## Repository structure
 * LesSonsV3.mxf _Main application in the form of a Max collective to be run in the Max runtime_
-* Dependencies _Folder that should be placed on your computer_
+* Dependencies _Folders that contain 
   - Feature Samples _Pre made libary containing multiple samples of product sound sources_
   - Scene Samples _Pre made library containing multiple samples of possible sounds present in a bathroom_
   
 * Source Folder _All max patcher sources_ 
 
-To be able to run Les_Sons dowload Max from:
-https://cycling74.com/downloads
 
 ## License
 Les_Sons © 2024 by Tim Deltrap is licensed under CC BY-NC-SA 4.0 
