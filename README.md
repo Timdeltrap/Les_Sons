@@ -1,12 +1,12 @@
 # Les_Sons
-Repository for the Les_Sons product sound conceptualization tool
+Welcome to the github repository for the Les_Sons product sound conceptualization tool.
 
-# Tutorial video
+## Tutorial video
 To get started it is recommended to watch the Les_Sons tutorial video below. Clicking on the picture will bring you to the actual youtube video.
 
 [![Les_Sons video Tutorial](https://i9.ytimg.com/vi/Q_ZCD8cKsXk/mqdefault.jpg?sqp=CIDnn78G-oaymwEmCMACELQB8quKqQMa8AEB-AHSCIAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBuunh0m6VAftop-AtPqapsCco8mA)](https://youtu.be/Q_ZCD8cKsXk "Les_Sons Video Tutorial")
 
-# Project video
+## Project video
 To get to know more about the master graduation project behind Les_Sons, please watch the video below. Clicking on the picture will bring you to the actual youtube video.
 
 [![Graduation Project Overview - Tim Deltrap](https://i9.ytimg.com/vi/T6gMbs0yCYM/mqdefault.jpg?sqp=CITun78G&rs=AOn4CLDwWzTCs86Yt0GGYc7JMF0h6Lzk9Q)](https://youtu.be/T6gMbs0yCYM "Graduation Project Overview - Tim Deltrap")
