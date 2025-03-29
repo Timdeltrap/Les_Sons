@@ -1,6 +1,9 @@
 # Les_Sons
 Repository for the Les_Sons product sound conceptualization tool
 
+# Tutorial 
+[![Les_Sons video Tutorial](https://i9.ytimg.com/vi/Q_ZCD8cKsXk/mqdefault.jpg?sqp=CIDnn78G-oaymwEmCMACELQB8quKqQMa8AEB-AHSCIAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBuunh0m6VAftop-AtPqapsCco8mA)](https://youtu.be/Q_ZCD8cKsXk "Les_Sons Video Tutorial")
+
 ## Repository structure
 * LesSonsV3.mxf _Main application in the form of a Max collective to be run in the Max runtime_
 * Dependencies _Folder that should be placed on your computer_
