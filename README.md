@@ -9,7 +9,7 @@ To get started it is recommended to watch the Les_Sons tutorial video below. Cli
 # Project video
 To get to know more about the master graduation project behind Les_Sons, please watch the video below. Clicking on the picture will bring you to the actual youtube video.
 
-[![Graduation Project Overview - Tim Deltrap](https://i9.ytimg.com/vi/T6gMbs0yCYM/mqdefault.jpg?sqp=CITun78G&rs=AOn4CLDwWzTCs86Yt0GGYc7JMF0h6Lzk9Q](https://youtu.be/T6gMbs0yCYM)]"Graduation Project Overview - Tim Deltrap")
+[![Graduation Project Overview - Tim Deltrap](https://i9.ytimg.com/vi/T6gMbs0yCYM/mqdefault.jpg?sqp=CITun78G&rs=AOn4CLDwWzTCs86Yt0GGYc7JMF0h6Lzk9Q)](https://youtu.be/T6gMbs0yCYM "Graduation Project Overview - Tim Deltrap")
 
 ## Repository structure
 * LesSonsV3.mxf _Main application in the form of a Max collective to be run in the Max runtime_
