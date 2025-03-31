@@ -30,24 +30,24 @@ To help you getting started it is recommended to watch the Les_Sons tutorial vid
 ### No audio can be heard
 #### Make sure Max is using the correct audio device
 1. Click Options in the top bar menu
-2. Select Audio status
-3. Select the correct Audio driver
-4. Select the correct Audio output
+2. Select Audio status...
+3. Select the correct Audio driver in the Audio driver drop-down list
+4. Select the correct Audio output in the Output device drop-down list
 5. Hopefully you problem is solved, otherwise continue below
 
 #### Make sure a feature sample is loaded
-1. If no feature sample can be selected
-2. Select a feature sample in the drop-down list
-3. Check whether an audio waveform is shown in the waveform display
-4. Click on the play feature button to play a single feature sample
-5. Check whether the time bar is moving over time
-6. Hopefully you problem is solved, if the time bar is moving but no sound can be heard continue below
+1. Select a feature sample in the drop-down list
+2. Check whether an audio waveform is shown in the waveform display
+3. Click on the play feature button to play a single feature sample
+4. Check whether the time bar is moving over time
+5. Hopefully you problem is solved, if the time bar is moving but no sound can be heard continue below
 
 #### Known bug with housing filter
 If you followed all the steps above but still no sound can be heard follow these steps.
 1. Slide the Effect of housing slider above 0.0%
 2. Bring back the slider to 0.0% or any desired position
-3. Try playing a feauture sound again
+3. Click play feature
+4. Hopefully you problem is solved, otherwise try any of the steps above
 
 ## Project video
 To get to know more about the master graduation project behind Les_Sons, please watch the video below. Clicking on the picture will bring you to the actual youtube video.
