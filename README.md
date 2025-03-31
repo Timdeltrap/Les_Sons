@@ -5,7 +5,7 @@ Welcome to the github repository for the Les_Sons product sound conceptualizatio
 1. Download the project repository from this github page.
 2. Make sure to download and install Cycling74's Max or Max runtime from https://cycling74.com/downloads
 3. Start the program by clicking on LesSonsV3.mxf in the *../Les_Sons-main* folder
-4. When Les_Sons is starting a prompt will ask you to select a folder. To start with the example sounds of electric shavers select the *../Les_Sons-main/features samples* folder within the *../Les_Sons-main* folder
+4. When Les_Sons is starting a prompt will ask you to select a folder. To start with the example sounds of electric shavers select the *../Les_Sons-main/features_samples* folder within the *../Les_Sons-main* folder
    (To use your own samples new samples can be added to the features samples folder)
 6. If needed put the max patch in presentation mode
 7. You can now start using Les_Sons!
