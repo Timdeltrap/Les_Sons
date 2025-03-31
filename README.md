@@ -14,6 +14,41 @@ To help you getting started it is recommended to watch the Les_Sons tutorial vid
 
 [![Les_Sons video Tutorial](https://i9.ytimg.com/vi/Q_ZCD8cKsXk/mqdefault.jpg?sqp=CIDnn78G-oaymwEmCMACELQB8quKqQMa8AEB-AHSCIAC0AWKAgwIABABGF8gXyhfMA8=&rs=AOn4CLBuunh0m6VAftop-AtPqapsCco8mA)](https://youtu.be/Q_ZCD8cKsXk "Les_Sons Video Tutorial")
 
+## Troubleshooting
+### The feature sound samples drop down list is empty, no sample can be selected
+1. Click on the Select sounds folder icon 
+2. Select the folder which contains the samples you want to work with. To use the example sounds of electric shavers select the *../Les_Sons-main/features samples* folder within the *../Les_Sons-main* folder 
+3. Click open
+4. Use the feature source samples drop down list to select a desired sample
+
+### The feature source visuals drop down list is empty, no visual can be selected or is shown
+1. Click on the Select visuals folder icon 
+2. Select the folder which contains the visual you want to work with. To use the example sounds of electric shavers select the *../Les_Sons-main/visuals* folder within the *../Les_Sons-main* folder 
+3. Click open
+4. Use the feature source visuals drop down list to select a desired sample
+
+### No audio can be heard
+#### Make sure Max is using the correct audio device
+1. Click Options in the top bar menu
+2. Select Audio status
+3. Select the correct Audio driver
+4. Select the correct Audio output
+5. Hopefully you problem is solved, otherwise continue below
+
+#### Make sure a feature sample is loaded
+1. If no feature sample can be selected
+2. Select a feature sample
+3. Check whether an audio waveform is shown in the waveform display
+4. Click on the play feature button to play a single feature sample
+5. Check whether the time bar is moving over time
+6. Hopefully you problem is solved, if the time bar is moving but no sound can be heard continue below
+
+#### Known bug with housing filter
+If you followed all the steps above but still no sound can be heard follow these steps.
+1. Slide the Effect of housing slider above 0.0%
+2. Bring back the slider to 0.0% or any desired position
+3. Try playing a feauture sound again
+
 ## Project video
 To get to know more about the master graduation project behind Les_Sons, please watch the video below. Clicking on the picture will bring you to the actual youtube video.
 
